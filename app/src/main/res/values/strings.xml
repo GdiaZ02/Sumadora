@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sumadora</string>
+    <string name="sumador">Sumador</string>
+    <string name="num1">Número 1</string>
+    <string name="num2">Número 2</string>
+    <string name="suma">Suma: %s</string>
+</resources>
